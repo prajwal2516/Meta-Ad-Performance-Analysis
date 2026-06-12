@@ -1,12 +1,6 @@
 <img width="1107" height="675" alt="image" src="https://github.com/user-attachments/assets/1970a22f-5229-450b-af34-cc7c4e9c0583" /># Meta-Ad-Performance-Analysis
 Meta Ad Performance Dashboard using Power BI, DAX, Data Modeling and Marketing Analytics
 
-## Dashboard Preview
-
-![Meta Dashboard](Meta_Dashboard.png)
-![Meta Dashboard](Instagram_Dashboard.png)
-
-
 # 📈 Meta Ad Performance Analysis Dashboard
 
 ## Project Overview
